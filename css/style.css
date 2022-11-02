@@ -1,0 +1,542 @@
+.logo
+{
+	background-color:white;
+	color:black;
+}
+.wrapper
+{
+	width:70%;
+	margin:auto;
+}
+.logo .logo-fc 
+{
+	color:white;
+	display:flex;
+	
+}
+.logo .logo-fc .home
+{
+	padding:20px 25px;
+	float:left;
+	color:black;
+text-transform:uppercase;
+	
+}
+.logo .logo-fc .shop
+{
+	float:left;
+padding:20px  25px;
+	color:black;
+	text-transform:uppercase;
+
+}
+.logo .logo-fc .adventures
+{
+	float:left;
+	padding:20px 25px;
+	color:black;
+	text-transform:uppercase;
+	
+}
+.logo .logo-fc .pages
+{
+     float:left;
+	 padding:20px 25px;
+	color:black;
+	text-transform:uppercase;
+	
+
+}
+
+.camp
+{
+	background-color:black;
+	height:400px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.camp .camp-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:flex-end;
+	text-align:center;
+	
+}
+
+.camp .camp-fc .boxA
+{
+
+	width:150px;
+	height:30px;
+	margin-top:300px;
+	background-color:white;
+}
+.provident
+{
+	background-color:white;
+	height:544px;
+}
+.provident .provident-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.provident .provident-fc .logoA
+{
+	width:500px;
+	height:250px;
+	margin-top:50px;
+	background-color:grey;
+	text-align:center;
+}
+.provident .provident-fc .logoB
+{
+	background-color:grey;
+	width:500px;
+	height:250px;
+	text-align:center;
+	margin-top:50px;
+}
+.pay .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pay
+{
+	background-color:lightgrey;
+	height:800px;
+}
+.pay .pay-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.pay .pay-fc .boxa
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxa .boxa
+{
+	height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+	margin-left:45px;
+}
+.pay .pay-fc .boxb
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxb .box-a
+{
+	height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+	margin-left:45px;
+
+	
+}
+.pay .pay-fc .boxc
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxc .box-b
+{
+height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+		margin-left:45px;
+}
+.pay .pay-fc .boxd
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxd .box-c
+{
+		height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+		margin-left:45px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website
+{
+	background-color :white;
+	height:400px;
+	
+}
+.website .website-fc
+{
+	width:100%;
+	text-align:center;
+	height:250px;
+	background-color:lightblue;
+	padding:20px;
+	margin-top:50px;
+	justify-content:space-evenly;
+}
+.website .website-fc .download
+{
+width:150px;
+	height:50px;
+	margin-top:120px;
+	margin-left:400px;
+	background-color:white;
+	text-align:center;	
+}
+.services
+{
+	background-color:pink;
+	height:800px;
+}
+.services .services-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:flex-end;
+	text-align:center;
+}
+.services .services-fc .boxA
+{
+	width:400px;
+	height:350px;
+	margin-top:150px;
+	background-color:white;
+	text-align:center;
+	margin-right:125px;
+	padding-bottom:90px;
+}
+.services .services-fc .boxB
+{
+	background-color:white;
+	width:357px;
+	height:336px;
+	text-align:center;
+	margin-top:150px;
+
+}
+.services .services-fc .boxC
+{
+	background-color:white;
+	width:200px;
+	height:50px;
+	margin-top:50px;
+	text-align:center;
+		margin-right:500px;
+}
+.services .services-fc .boxD
+{
+	width:357px;
+	height:150px;
+	background-color:white;
+	
+	text-align:center;
+}
+.camp2
+{
+	background-color:#92a8d1;
+	height:400px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.camp2 .camp2-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+	text-align:center;
+	
+}
+
+.camp2 .camp2-fc .boxA
+{
+
+	width:150px;
+	height:30px;
+	margin-top:300px;
+	background-color:silver;
+}
+.Bootstrap
+{
+background-color:#80ced6;
+height:618px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.Bootstrap .Bootstrap-fc
+{
+display:flex;
+justify-content:space-evenly;
+flex-direction:row;
+flex-wrap:wrap;
+}
+.Bootstrap .Bootstrap-fc .textA
+{
+width:40%;
+height:200px;
+margin-top:50px;
+text-align:center;
+background-color:gray;
+}
+.Bootstrap .Bootstrap-fc .textB
+{
+width:40%;
+height:200px;
+margin-top:50px;
+text-align:center;
+background-color:gray;
+}
+.Bootstrap .Bootstrap-fc .textC
+{
+width:40%;
+height:200px;
+margin-top:50px;
+text-align:center;
+background-color:gray;
+}
+.Bootstrap .Bootstrap-fc .textD
+{
+width:40%;
+height:200px;
+margin-top:50px;
+text-align:center;
+background-color:gray;
+}
+.contact
+{
+	background-color:white;
+	height:700px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contact .contact-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:flex-end;
+	text-align:center;
+	
+}
+.contact .contact-fc .boxA
+{
+	width:800px;
+height:500px;
+margin-top:80px;
+background-color:silver;
+
+}
+.best
+{
+	background-color:grey;
+	height:400px;
+}
+.wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.best .best-fc
+{
+	display:flex;
+	flex-direction:row;
+	height:300px;
+	justify-content:space-between;
+}
+
+.best .best-fc .back1{
+	padding-right:30px;
+	width:400px;
+	height:350px;
+	margin-top:30px;
+	background-color:white;
+}
+.pay .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.pay
+{
+	background-color:lightgrey;
+	height:900px;
+}
+.pay .pay-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.pay .pay-fc .boxa
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxa .boxa
+{
+	height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+	margin-left:45px;
+}
+.pay .pay-fc .boxb
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxb .box-a
+{
+	height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+	margin-left:45px;
+
+	
+}
+.pay .pay-fc .boxc
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxc .box-b
+{
+height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+		margin-left:45px;
+}
+.pay .pay-fc .boxd
+{
+	height:450px;
+	width:250px;
+	background-color:white;
+	margin-top:300px;
+}
+.pay .pay-fc .boxd .box-c
+{
+		height:50px;
+	width:50%;
+	background-color:grey;
+	margin-top:350px;
+		margin-left:45px;
+}
+.logo2 
+{
+	background-color:navy;
+	height:700px;
+}
+.logo2 .logo2-fc
+{
+display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.logo2 .logo2-fc .logob
+{
+	background-color:white;
+	height:211px;
+	width:680px;
+	margin-top:300px;
+}
+
+.logo2 .logo2-fc .logotext
+{
+	background-color:white;
+	height:43px;
+	width:147px;
+	margin-top:100px;
+}
+.logobox
+{
+	background-color:lightgrey;
+	height:150px;
+	
+}
+.logobox .logobox-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.logobox .logobox-fc .la
+{
+	background-color:pink;
+	height:209px;
+	width:300px;
+}
+.logobox .logobox-fc .lb
+{
+	height:209px;
+	width:300px;
+		background-color:pink;
+}
+.logobox .logobox-fc .lc
+{
+	height:209px;
+	width:300px;
+		background-color:pink;
+}
+.logobox .logobox-fc .ld
+{
+	height:209px;
+	width:300px;
+		background-color:pink;
+}
+.copywrite
+{
+		color:white;
+	width:100%;
+	background-color:black;
+	height:200px;
+		text-align:center;
+		margin-top:140px;
+}
